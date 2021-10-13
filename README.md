@@ -8,7 +8,11 @@
 
 _The objective of this project:_
 
-The Redux Shopping Cart was converted from the context state use to a redux store base syste. This method of creating applications is used all accross the industry and is only getting more attention from front-end developers. <br>## Table of contents
+The Redux Shopping Cart was converted from the context state use to a redux store base syste. This method of creating applications is used all accross the industry and is only getting more attention from front-end developers. 
+<br>
+link to the app on heroku: [Redux Shop](https://jvshopredux.herokuapp.com/)
+
+## Table of contents
 
 - [Installation](#installation)
 - [Usage](#usage)
